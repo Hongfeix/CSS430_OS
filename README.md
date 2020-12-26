@@ -1,2 +1,2 @@
-# CSS430_OS
+# OS
 ThreadOS
